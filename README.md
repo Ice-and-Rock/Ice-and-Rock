@@ -39,4 +39,4 @@ I regularly use... <br></br>
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] 
                                                                       
  
-https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-and-Rock&theme=tokyo-night                                                                
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-and-Rock&theme=tokyo-night'/>                                                              
