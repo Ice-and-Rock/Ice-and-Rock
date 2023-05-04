@@ -33,7 +33,7 @@ I regularly use... <br></br>
 <img src='coolors'/>
 <img src=''/>
 
-<img src='https://github-readme-activity-graph.cyclic.app/graph?username={username}&theme={theme_name}'/>
+<img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=react_dark'/>
 
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Col
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] 
