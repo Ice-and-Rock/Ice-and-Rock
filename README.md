@@ -22,8 +22,11 @@ I'm currently working on... <br></br>
 <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/> 
 <img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/>
 <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
-<img src=' '/>
-<img src=' '/>
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+<img src='https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white'/>
+<img src='https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white'/> 
+<img src=''/>
 
 I regularly use... <br></br>
 <img src='Visual studio code'/>
@@ -38,5 +41,6 @@ I regularly use... <br></br>
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Col
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] 
                                                                       
- 
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
+  
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-and-Rock&theme=tokyo-night'/>                                                              
