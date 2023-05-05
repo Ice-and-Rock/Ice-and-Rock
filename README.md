@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Let's colaborate on a project together! Below is a few things I've been learing recently and some information about myself...
+Let's colaborate on a project together! 
 
-For almost ten years I've been working with electrics ⚡ I decided I wanted to go from re-wiring engierring projects to re-wiring my brain 🪢
+Below is a few things I've been learing recently and some information about myself...
+
+For almost ten years I've been working with electrics ⚡ 
+
+I decided I wanted to go from re-wiring engineering projects to re-wiring my brain 🪢
 
 Let's bring some bright ideas to the tech industry! 
 
