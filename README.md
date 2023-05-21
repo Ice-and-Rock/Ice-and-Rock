@@ -24,23 +24,24 @@ Let's bring some bright ideas to the tech industry!
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-and-Rock&theme=tokyo-night'/> 
 
-🌱 I'm currently working on ... <br></br>
+🔭 I regularly use... <br></br>
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
-<img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/> 
-<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
-<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
-<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
-<img src='https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white'/> 
-<img src='https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white'/>
-<img src=''/>
-
-🔭 I regularly use... <br></br>
+<img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white'/>
 <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
 <img src='https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white'/>
 <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/>
 <img src='https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white'/>
+
+🌱 I'm currently working on ... <br></br> 
+<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+<img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+<img src='https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white'/> 
+<img src='https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white'/>
+
+<!-- <img src=''/> -->
 
 <!-- <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=rogue'/> --> 
                                                                       
