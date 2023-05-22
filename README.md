@@ -10,7 +10,7 @@ So, whether you're a fellow developer, an aspiring collaborator, or just someone
 
 Don't forget to check out my repositories below and let's turn ideas into reality. Let's make magic happen! ✨
 
-💡
+P.S. Sorry about the puns!💡
 
 <!---
 - 🔭 
