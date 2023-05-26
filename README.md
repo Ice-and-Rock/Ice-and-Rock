@@ -1,3 +1,5 @@
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
+
 ### Hi there 👋
 
 Welcome to my GitHub page, where sparks of creativity and electrifying projects come to life! ⚡
@@ -11,6 +13,8 @@ So, whether you're a fellow developer, an aspiring collaborator, or just someone
 Don't forget to check out my repositories below and let's turn ideas into reality. Let's make magic happen! ✨
 
 P.S. Sorry about the puns!💡
+
+
 
 <!---
 - 🔭 
@@ -50,6 +54,4 @@ P.S. Sorry about the puns!💡
 <!-- <img src=''/> -->
 
 <!-- <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=rogue'/> --> 
-                                                                      
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
-                                                               
+
