@@ -29,6 +29,7 @@ P.S. Sorry about the puns!💡
  
  <a href="https://trello.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/trello.png" alt="trello" title="trello" width="40" height="40"/><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jira.png" alt="Jira" title="Jira" width="40" height="40"/><a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/git.png" alt="Git" title="Git" width="40" height="40"/><a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/><a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/nodejs.png" alt="nodejs" title="nodejs" width="40" height="40"/><a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postman.png" alt="postman" title="postman" width="40" height="40"/><a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/heroku.png" alt="heroku" title="heroku" width="40" height="40"/><a href="https://www.netlify.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/netlify.png" alt="netlify" title="netlify" width="40" height="40"/><a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jest.png" alt="jest" title="jest" width="40" height="40"/><a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/aws.png" alt="AWS" title="AWS" width="40" height="40"/>
    
+<!-- 
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
@@ -45,7 +46,7 @@ P.S. Sorry about the puns!💡
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
 <img src='https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white'/> 
 <img src='https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white'/>
-
+ -->
 <!-- <img src=''/> -->
 
 <!-- <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=rogue'/> --> 
