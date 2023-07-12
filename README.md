@@ -1,5 +1,5 @@
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
-
+<!---
 ### Hi there 👋
 
 Welcome to my GitHub page, where sparks of creativity and electrifying projects come to life! ⚡
@@ -13,6 +13,14 @@ So, whether you're a fellow developer, an aspiring collaborator, or just someone
 Don't forget to check out my repositories below and let's turn ideas into reality. Let's make magic happen! ✨
 
 P.S. Sorry about the puns!💡
+--->
+
+Hey, I'm Nick
+
+I'm an electrician by trade and I'm hoping to turn my web development and software engineering skills into a new career.
+
+If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem solving and a good laugh - ping me a message and lets have a chat...
+
 
 
 
