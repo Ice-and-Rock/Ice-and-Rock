@@ -1,4 +1,4 @@
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
+
 <!---
 ### Hi there 👋
 
@@ -32,13 +32,16 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+🔭 I regularly use... 
 --->
 
 
+<br></br>
 
 
 
-🔭 I regularly use... <br></br>
+
+
  <div align="center">
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/javascript.png" alt="Javascript" title="Javascript" width="40" height="40"/><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/typescript.png" alt="typescript" title="typescript" width="40" height="40"/><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/html5.png" alt="html5" title="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/css3.png" alt="CSS3" title="CSS3" width="40" height="40"/><a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/react.png" alt="React" title="React" width="40" height="40"/><a href="https://chakra-ui.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/chakra.png" alt="Chakra-UI" title="Chakra-UI" width="40" height="40"/><a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/tailwind.png" alt="TailwindCSS" title="TailwindCSS" width="40" height="40"/><a href="https://www.chartjs.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/chartjs.png" alt="ChartJS" title="ChartJS" width="40" height="40"/><a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/figma.png" alt="Figma" title="Figma" width="40" height="40"/>
  
@@ -73,3 +76,5 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 
 <!-- <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=rogue'/> --> 
 
+
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
