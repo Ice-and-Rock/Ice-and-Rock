@@ -8,7 +8,8 @@ Hey, I'm Nick
 If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem solving and having fun at work - pop me a message and lets have a chat...
 </p>
 
-
+<br>
+</br>
 
 
 <p align="center">
@@ -53,7 +54,7 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
     </tr>
     <tr>
-      <td>JavaScript Quiz!</td>
+      <td>JavaScript Quiz</td>
       <td><a href="https://github.com/Ice-and-Rock/Javascript_quiz_project">GitHub</a></td>
       <td><a href="https://javascript-quiz-fun.netlify.app/">Demo</a></td>
       <td>ReactJS, JSON, CSS</td>
