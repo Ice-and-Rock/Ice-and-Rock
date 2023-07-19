@@ -1,25 +1,25 @@
 
-<!---
-### Hi there 👋
-
-Welcome to my GitHub page, where sparks of creativity and electrifying projects come to life! ⚡
-
-For nearly a decade, I've been immersed in the world of electrics, bringing power and energy to various engineering projects. But then, I had an enlightening moment—I realized it was time to rewire more than just circuits; it was time to rewire my brain! 🪢
-
-Now, I'm ready to embark on an electrifying journey in the tech industry, where I'll fuse my passion for innovation with my expertise in electrics. Together, let's illuminate the way and bring some seriously bright ideas to the table!
-
-So, whether you're a fellow developer, an aspiring collaborator, or just someone who enjoys a good dose of wit and humor, join me on this electrifying adventure. Let's spark innovation, charge up creativity, and create some truly awe-inspiring projects together!
-
-Don't forget to check out my repositories below and let's turn ideas into reality. Let's make magic happen! ✨
-
-P.S. Sorry about the puns!💡
---->
-
+<p align="center">
 Hey, I'm Nick
-
-I'm an electrician by trade and I'm hoping to turn my web development and software engineering skills into a new career.
-
+ </p>
+<p align="center">
+ I'm an electrician by trade and I'm hoping to turn my web development and software engineering skills into a new career.
+</p>
+ <p align="center">
 If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem solving and having fun at work - pop me a message and lets have a chat...
+</p>
+
+
+
+
+<p align="center">
+  <a href="mailto:nicholas%40valente-engineering.com">
+    <img src="https://img.shields.io/badge/Email-nicholas%40valente--engineering.com-blue" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicholas-valente-electrics/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+  </a>
+</p>
 
 
 
