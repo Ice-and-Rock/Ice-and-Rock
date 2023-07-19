@@ -1,4 +1,3 @@
-
 <p align="center">
 Hey, I'm Nick
  </p>
@@ -14,12 +13,55 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 
 <p align="center">
   <a href="mailto:nicholas%40valente-engineering.com">
-    <img src="https://img.shields.io/badge/Email-nicholas%40valente--engineering.com-blue" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nicholas-valente-electrics/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th></th>
+      <th></th>
+      <th>Tech Used</th>
+
+   
+  </thead>
+  <tbody>
+    <tr>
+      <td>Project 1</td>
+      <td><a href="https://github.com/project1">GitHub</a></td>
+      <td><a href="https://demo.project1.com">Demo</a></td>
+      <td>ReactJS, NodeJS, CSS</td>
+    </tr>
+    <tr>
+      <td>Project 2</td>
+      <td><a href="https://github.com/project2">GitHub</a></td>
+      <td><a href="https://demo.project2.com">Demo</a></td>
+      <td>ReactJS, NodeJS, CSS</td>
+    </tr>
+    <tr>
+      <td>Project 3</td>
+      <td><a href="https://github.com/project3">GitHub</a></td>
+      <td><a href="https://demo.project3.com">Demo</a></td>
+      <td>ReactJS, NodeJS, CSS</td>
+    </tr>
+    <tr>
+      <td>Project 4</td>
+      <td><a href="https://github.com/project4">GitHub</a></td>
+      <td><a href="https://demo.project4.com">Demo</a></td>
+      <td>ReactJS, NodeJS, CSS</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
@@ -47,11 +89,18 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
  
  <a href="https://trello.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/trello.png" alt="trello" title="trello" width="40" height="40"/><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jira.png" alt="Jira" title="Jira" width="40" height="40"/><a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/git.png" alt="Git" title="Git" width="40" height="40"/><a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/><a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/nodejs.png" alt="nodejs" title="nodejs" width="40" height="40"/><a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postman.png" alt="postman" title="postman" width="40" height="40"/><a href="https://www.heroku.com/" target="_blank"> <a href="https://www.netlify.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/netlify.png" alt="netlify" title="netlify" width="40" height="40"/><a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jest.png" alt="jest" title="jest" width="40" height="40"/><a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/aws.png" alt="AWS" title="AWS" width="40" height="40"/>
  </div> 
+
+---
+
+---
+
   
   <div align="center">
   <a href="https://github.com/Ice-and-Rock">
    <img height="180em"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-and-Rock&theme=tokyo-night'/> 
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Ice-and-Rock&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+</div>
+<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
 </div>
    
 <!-- 
@@ -76,5 +125,3 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 
 <!-- <img src='https://github-readme-activity-graph.cyclic.app/graph?username=Ice-and-Rock&theme=rogue'/> --> 
 
-
-<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
