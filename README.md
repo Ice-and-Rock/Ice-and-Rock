@@ -20,7 +20,18 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
   </a>
 </p>
 
+</br>
+
 ---
+
+</br>
+
+<div align="center">
+ 
+# 💼 Projects
+ 
+</div>
+
 
 
 <div align="center">
@@ -36,28 +47,46 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
   </thead>
   <tbody>
     <tr>
-      <td>Project 1</td>
-      <td><a href="https://github.com/project1">GitHub</a></td>
-      <td><a href="https://demo.project1.com">Demo</a></td>
-      <td>ReactJS, NodeJS, CSS</td>
+      <td>WiseWalletKitchen</td>
+      <td><a href="https://github.com/Ice-and-Rock/WiseWalletKitchen">GitHub</a></td>
+      <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
+      <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
     </tr>
     <tr>
-      <td>Project 2</td>
-      <td><a href="https://github.com/project2">GitHub</a></td>
-      <td><a href="https://demo.project2.com">Demo</a></td>
-      <td>ReactJS, NodeJS, CSS</td>
+      <td>JavaScript Quiz!</td>
+      <td><a href="https://github.com/Ice-and-Rock/Javascript_quiz_project">GitHub</a></td>
+      <td><a href="https://javascript-quiz-fun.netlify.app/">Demo</a></td>
+      <td>ReactJS, JSON, CSS</td>
     </tr>
     <tr>
-      <td>Project 3</td>
-      <td><a href="https://github.com/project3">GitHub</a></td>
-      <td><a href="https://demo.project3.com">Demo</a></td>
-      <td>ReactJS, NodeJS, CSS</td>
+      <td>Outdoor Sport Weather Forecaster</td>
+      <td><a href="https://github.com/Ice-and-Rock/Outdoor_Sports_Weather_App.">GitHub</a></td>
+      <td><a href="https://outdoor-sports-weather-forecast.netlify.app/">Demo</a></td>
+      <td>ReactJS, NodeJS, API, CSS</td>
     </tr>
     <tr>
-      <td>Project 4</td>
-      <td><a href="https://github.com/project4">GitHub</a></td>
-      <td><a href="https://demo.project4.com">Demo</a></td>
-      <td>ReactJS, NodeJS, CSS</td>
+      <td>Asteroid Blaster</td>
+      <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
+      <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
+      <td>JavaScript, HTML</td>
+    </tr>
+     <tr>
+      <td>Business Card</td>
+      <td><a href="https://github.com/Ice-and-Rock/Business_card.">GitHub</a></td>
+      <td><a href="https://ice-and-rock.github.io/Business_card./">Demo</a></td>
+      <td>ReactJS, Node, CSS</td>
+    </tr>
+     <tr>
+      <td>Expedition Weather for Rebecca</td>
+      <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
+      <td><a href="">*</a></td>
+      <td>ReactJS, API, CSS</td>
+    </tr>
+   <tr>
+      <td>Job List Tracker</td>
+      <td><a href="https://github.com/Ice-and-Rock/Nick_Learns_ChakraUI">GitHub</a></td>
+      <td><a href="">*</a></td>
+      <td>Vite, ChakraUI, ReactJS </td>
     </tr>
   </tbody>
 </table>
