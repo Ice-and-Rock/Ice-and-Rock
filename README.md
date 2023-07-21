@@ -22,11 +22,9 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 </p>
 
 <br>
-
-[![Resume](https://img.shields.io/badge/Download-Resume-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nLlIcR9um80lJGblep7DRY6fllQtnPvu/view?usp=sharing)
-
-[![Resume](https://img.shields.io/badge/Download%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nLlIcR9um80lJGblep7DRY6fllQtnPvu/view?usp=sharing)
-
+<p align='center'>
+[![Resume](https://img.shields.io/badge/Download%20my%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nLlIcR9um80lJGblep7DRY6fllQtnPvu/view?usp=sharing)
+</p>
 </br>
 
 </br>
