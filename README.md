@@ -81,7 +81,7 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
       <td>Expedition Weather for Rebecca</td>
       <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
       <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
-      <td>ReactJS, API, CSS</td>
+      <td>Vite, ReactJS, API, CSS</td>
     </tr>
    <tr>
       <td>Job List Tracker</td>
