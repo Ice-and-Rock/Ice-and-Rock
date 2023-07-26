@@ -22,7 +22,7 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nLlIcR9um80lJGblep7DRY6fllQtnPvu/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1kqWKhVOeLPHLx_A7BljzWUkY9B5tKhue/view?usp=sharing">
     <img src="https://img.shields.io/badge/%20My%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
