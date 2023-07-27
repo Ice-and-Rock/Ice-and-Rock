@@ -1,9 +1,9 @@
 
 
-  
-![github-header-image](https://github.com/Ice-and-Rock/Ice-and-Rock/assets/124932222/219164ae-89b2-4539-bc75-a523978622b1)
-  
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/124932222/256524110-219164ae-89b2-4539-bc75-a523978622b1.png" alt="Nick header">
+</p>
 
 
 
