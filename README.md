@@ -1,3 +1,14 @@
+
+
+![github-header-image](https://github.com/Ice-and-Rock/Ice-and-Rock/assets/124932222/219164ae-89b2-4539-bc75-a523978622b1)
+
+
+<div style="text-align: center;">
+  <img src="https://github.com/Ice-and-Rock/Ice-and-Rock/raw/main/assets/124932222/219164ae-89b2-4539-bc75-a523978622b1.png" alt="github-header-image">
+</div>
+
+
+
 <p align="center">
 Hey, I'm Nick
  </p>
