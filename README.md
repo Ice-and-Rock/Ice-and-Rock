@@ -102,10 +102,16 @@ If you're a fellow developer, an aspiring collaborator, or just someone who also
       <td>Vite, ReactJS, API, CSS</td>
     </tr>
    <tr>
-      <td>Job List Tracker</td>
+      <td>Job List Logger</td>
       <td><a href="https://github.com/Ice-and-Rock/Nick_Learns_ChakraUI">GitHub</a></td>
       <td><a href="">*</a></td>
       <td>Vite, ChakraUI, ReactJS </td>
+    </tr>
+     <tr>
+      <td>Finance Tracker</td>
+      <td><a href="https://github.com/Ice-and-Rock/Nick_Learns_TypeScript_Finance_Tracker">GitHub</a></td>
+      <td><a href="">*</a></td>
+      <td>TypeScript, Javascript, CSS </td>
     </tr>
   </tbody>
 </table>
