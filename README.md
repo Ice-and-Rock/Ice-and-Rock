@@ -74,11 +74,17 @@ Pop me a message and let's talk...!
       <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
     </tr>
-    <tr>
-      <td>JavaScript Quiz</td>
-      <td><a href="https://github.com/Ice-and-Rock/Javascript_quiz_project">GitHub</a></td>
-      <td><a href="https://javascript-quiz-fun.netlify.app/">Demo</a></td>
-      <td>ReactJS, JSON, CSS</td>
+      <tr>
+      <td>Expedition Weather for Rebecca</td>
+      <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
+      <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
+      <td>Vite, ReactJS, API, CSS</td>
+    </tr>
+       <tr>
+      <td>Asteroid Blaster</td>
+      <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
+      <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
+      <td>JavaScript, HTML</td>
     </tr>
     <tr>
       <td>Outdoor Sport Weather Forecaster</td>
@@ -86,23 +92,17 @@ Pop me a message and let's talk...!
       <td><a href="https://outdoor-sports-weather-forecast.netlify.app/">Demo</a></td>
       <td>ReactJS, NodeJS, API, CSS</td>
     </tr>
-    <tr>
-      <td>Asteroid Blaster</td>
-      <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
-      <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
-      <td>JavaScript, HTML</td>
-    </tr>
      <tr>
       <td>Business Card</td>
       <td><a href="https://github.com/Ice-and-Rock/Business_card.">GitHub</a></td>
       <td><a href="https://ice-and-rock.github.io/Business_card./">Demo</a></td>
       <td>ReactJS, Node, CSS</td>
-    </tr>
+     </tr>
      <tr>
-      <td>Expedition Weather for Rebecca</td>
-      <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
-      <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
-      <td>Vite, ReactJS, API, CSS</td>
+      <td>JavaScript Quiz</td>
+      <td><a href="https://github.com/Ice-and-Rock/Javascript_quiz_project">GitHub</a></td>
+      <td><a href="https://javascript-quiz-fun.netlify.app/">Demo</a></td>
+      <td>ReactJS, JSON, CSS</td>
     </tr>
    <tr>
       <td>Job List Logger</td>
