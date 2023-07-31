@@ -13,10 +13,13 @@
 Hey, I'm Nick
  </p>
 <p align="center">
- I'm an electrician by trade and I'm hoping to turn my web development and software engineering skills into a new career.
+ I'm an electrician by trade and recently turned my problem-solving skills into a new software engineering career.
 </p>
  <p align="center">
-If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem solving and having fun at work - pop me a message and lets have a chat...
+If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem-solving and having fun at work
+</p>
+<p align='center'>
+Pop me a message and let's talk...!
 </p>
 
 <br>
