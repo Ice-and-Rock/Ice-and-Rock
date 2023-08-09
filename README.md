@@ -36,7 +36,7 @@ Pop me a message and let's talk...!
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1kqWKhVOeLPHLx_A7BljzWUkY9B5tKhue/view?usp=sharing">
+  <a href="https://docs.google.com/document/d/1_hiOZLSndFcTVhX5OZZge84PkFwoISGL0nnqRCwiR4k/edit?usp=sharing">
     <img src="https://img.shields.io/badge/%20My%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
