@@ -96,8 +96,8 @@ Pop me a message and let's talk...!
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
-      <td><a href="*">Demo</a></td>
-      <td>ReactJS, NodeJS, API, CSS</td>
+      <td><a href="*">*</a></td>
+      <td>JavaScript, NodeJS, Insomnia, HTML, CRUD-API</td>
     </tr>
     <tr>
       <td>Outdoor Sport Weather Forecaster</td>
