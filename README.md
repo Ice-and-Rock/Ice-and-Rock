@@ -96,7 +96,7 @@ Pop me a message and let's talk...!
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
-      <td><a href="*">*</a></td>
+      <td><a href="https://product-logger.netlify.app/">Demo</a></td>
       <td>JavaScript, NodeJS, Insomnia, HTML, CRUD-API</td>
     </tr>
     <tr>
