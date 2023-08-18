@@ -72,7 +72,7 @@ Pop me a message and let's talk...!
      <tr>
       <td>JavaScript Quiz V2</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
-      <td><a href="https://64d2678e4155e8283ff8dcc6--javascript-quiz-v2.netlify.app/">Demo</a></td>
+      <td><a href="https://javascript-quiz-v2.netlify.app/">Demo</a></td>
       <td>TypeScript, TailWind, ReactJS, ReactTesting, NodeJS, Netlify</td>
     </tr>
     <tr>
