@@ -93,6 +93,12 @@ Pop me a message and let's talk...!
       <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
       <td>JavaScript, HTML</td>
     </tr>
+      <tr>
+      <td>Offshore Flight Planner</td>
+      <td><a href="https://github.com/Ice-and-Rock/Geo_Data_App">GitHub</a></td>
+      <td><a href="https://geo-weather-data.netlify.app/">Demo</a></td>
+      <td>TypeScript, Windy-Plugin, ReactJS, NodeJS, API, CSS</td>
+    </tr>
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
