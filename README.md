@@ -82,7 +82,7 @@ Pop me a message and let's talk...!
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
     </tr>
     <tr>
-      <td>A project build with a team of 5 people</td>
+      A project build with a team of 5 people
     </tr>
       <tr>
       <td>Expedition Weather for Rebecca</td>
