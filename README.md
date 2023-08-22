@@ -6,9 +6,6 @@
 </p>
 
 
-
-
-
 <p align="center">
 Hey, I'm Nick
  </p>
@@ -75,29 +72,69 @@ Pop me a message and let's talk...!
       <td><a href="https://javascript-quiz-v2.netlify.app/">Demo</a></td>
       <td>TypeScript, TailWind, ReactJS, ReactTesting, NodeJS, Netlify</td>
     </tr>
+      <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: School of Code</sub> <br>
+      <sub>Build as a study aid for students</sub>
+      </p>
+    </td>
+  </tr>
     <tr>
       <td>WiseWalletKitchen</td>
       <td><a href="https://github.com/Ice-and-Rock/WiseWalletKitchen">GitHub</a></td>
       <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
       <tr>
-      <td>Expedition Weather for Rebecca</td>
+           <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: School of Code</sub> <br>
+      <sub>Built to create a solution to the cost of living crisis</sub>
+      </p>
+    </td>
+  </tr>
+      <td>Kyrgystan Expedition App</td>
       <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
       <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
       <td>Vite, ReactJS, API, CSS</td>
     </tr>
+       <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: RM-Outdoors.com</sub> <br>
+      <sub>Built to assist an expedition to a remote region with no data available</sub>
+      </p>
+    </td>
+  </tr>
        <tr>
       <td>Asteroid Blaster</td>
       <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
       <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
       <td>JavaScript, HTML</td>
     </tr>
+          <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: Exploration</sub> <br>
+      <sub>Built to test my logic skills</sub>
+      </p>
+    </td>
+  </tr>
       <tr>
       <td>Offshore Flight Planner</td>
       <td><a href="https://github.com/Ice-and-Rock/Geo_Data_App">GitHub</a></td>
       <td><a href="https://geo-weather-data.netlify.app/">Demo</a></td>
       <td>TypeScript, Windy-Plugin, ReactJS, NodeJS, API, CSS</td>
     </tr>
+          <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: Icon Software</sub> <br>
+      <sub>Built before an interview to show what I could do in ~2hrs</sub>
+      </p>
+    </td>
+  </tr>
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
