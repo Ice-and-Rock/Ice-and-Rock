@@ -81,6 +81,10 @@ Pop me a message and let's talk...!
       <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
     </tr>
+    <tr>
+      <td>A project build with a team of 5 people</td>
+      
+    </tr>
       <tr>
       <td>Expedition Weather for Rebecca</td>
       <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
