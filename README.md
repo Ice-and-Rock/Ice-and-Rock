@@ -62,57 +62,63 @@ Pop me a message and let's talk...!
       <th></th>
       <th></th>
       <th>Tech Used</th>
-
-   
+    </tr>
   </thead>
+  
   <tbody>
-     <tr>
+  <tr>
       <td>JavaScript Quiz V2</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
       <td><a href="https://javascript-quiz-v2.netlify.app/">Demo</a></td>
       <td>TypeScript, TailWind, ReactJS, ReactTesting, NodeJS, Netlify</td>
-    </tr>
-      <tr>
+  </tr>
+    
+  <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
-<sub>Commissioned for: School of Code</sub> <br>
-      <sub>Build as a study aid for students</sub>
+          <sub>Commissioned for: School of Code</sub> <br>
+          <sub>Build as a study aid for students</sub>
       </p>
     </td>
   </tr>
-    <tr>
+  
+  <tr>
       <td>WiseWalletKitchen</td>
       <td><a href="https://github.com/Ice-and-Rock/WiseWalletKitchen">GitHub</a></td>
       <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
-      <tr>
-           <tr>
+  </tr>
+  
+  <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
-<sub>Commissioned for: School of Code</sub> <br>
-      <sub>Built to create a partial solution to the cost of living crisis</sub>
+          <sub>Commissioned for: School of Code</sub> <br>
+          <sub>Built to create a partial solution to the cost of living crisis</sub>
       </p>
     </td>
   </tr>
+  <tr>
       <td>Kyrgystan Expedition App</td>
       <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
       <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
       <td>Vite, ReactJS, API, CSS</td>
-    </tr>
-       <tr>
+  </tr>
+  
+  <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
-<sub>Commissioned for: RM-Outdoors.com</sub> <br>
-      <sub>Built to assist an expedition to a remote region with no data available</sub>
+          <sub>Commissioned for: RM-Outdoors.com</sub> <br>
+          <sub>Built to assist an expedition to a remote region with no data available</sub>
       </p>
     </td>
   </tr>
-       <tr>
+  
+  <tr>
       <td>Asteroid Blaster</td>
       <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
       <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
       <td>JavaScript, HTML</td>
-    </tr>
+  </tr>
           <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
