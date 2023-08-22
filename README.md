@@ -90,7 +90,7 @@ Pop me a message and let's talk...!
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
 <sub>Commissioned for: School of Code</sub> <br>
-      <sub>Built to create a solution to the cost of living crisis</sub>
+      <sub>Built to create a partial solution to the cost of living crisis</sub>
       </p>
     </td>
   </tr>
