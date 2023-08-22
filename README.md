@@ -83,7 +83,6 @@ Pop me a message and let's talk...!
     </tr>
     <tr>
       <td>A project build with a team of 5 people</td>
-      
     </tr>
       <tr>
       <td>Expedition Weather for Rebecca</td>
