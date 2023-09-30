@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center" >
-Looking for Work... ✅ 
+🚀 Looking for my first job in Tech ✅ 
  </h3>
 
 <p align="center">
