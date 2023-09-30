@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center" >
-Open to work ✅ 
+Looking for Work... ✅ 
  </h3>
 
 <p align="center">
