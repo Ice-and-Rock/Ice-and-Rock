@@ -5,6 +5,9 @@
   <img src="https://user-images.githubusercontent.com/124932222/256524110-219164ae-89b2-4539-bc75-a523978622b1.png" alt="Nick header">
 </p>
 
+<h3 align="center" >
+Open to work ✅ 
+ </h3>
 
 <p align="center">
 Hey, I'm Nick
