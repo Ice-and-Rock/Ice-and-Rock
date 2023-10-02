@@ -146,7 +146,7 @@ Pop me a message and let's talk...!
   </tr>
     </tr>
       <tr>
-      <td>TradesMin</td>
+      <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
       <td><a href="https://trades-min.netlify.app/">Demo (mobile)</a></td>
       <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, API, TailWind</td>
