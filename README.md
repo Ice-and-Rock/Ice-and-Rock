@@ -144,6 +144,21 @@ Pop me a message and let's talk...!
       </p>
     </td>
   </tr>
+    </tr>
+      <tr>
+      <td>TradesMin - Where Admin meets your Trade</td>
+      <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
+      <td><a href="https://trades-min.netlify.app/">Demo (mobile)</a></td>
+      <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, API, TailWind</td>
+    </tr>
+          <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: Icon Software</sub> <br>
+      <sub>Built before an interview to show what I could do in ~2hrs</sub>
+      </p>
+    </td>
+  </tr>
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
