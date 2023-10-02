@@ -149,7 +149,7 @@ Pop me a message and let's talk...!
       <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
       <td><a href="https://trades-min.netlify.app/">Demo (mobile)</a></td>
-      <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, API, TailWind</td>
+      <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, TailWind</td>
     </tr>
           <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
