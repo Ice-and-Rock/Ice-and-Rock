@@ -154,8 +154,8 @@ Pop me a message and let's talk...!
           <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
-<sub>Commissioned for: Icon Software</sub> <br>
-      <sub>Built before an interview to show what I could do in ~2hrs</sub>
+<sub>Commissioned for: Apline Electrics (Fr)</sub> <br>
+      <sub>Designed with specific on-site job requirements for a small engineering company</sub>
       </p>
     </td>
   </tr>
