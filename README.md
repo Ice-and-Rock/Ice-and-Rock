@@ -196,40 +196,28 @@ Pop me a message and let's talk...!
       <td>TypeScript, Javascript, CSS </td>
     </tr>
   </tbody>
+
+<br></br>
+
 </table>
-
-<br>
-
-</br>
-
----
-
-</br>
-
 <div align="center">
- 
+  
 # 📝 Tech Articles
- 
-</div>
 
-<div align="center">
 <table>
   <thead>
     <tr>
       <th>Article Name</th>
       <th></th>
-      <th></th>
       <th>Tech Description</th>
     </tr>
   </thead>
-  
   <tbody>
   <tr>
-      <td>Apple Mail App</td>
+      <td>Apple Mail Signature</td>
       <td><a href="https://github.com/Ice-and-Rock/AppleMail.Signature">GitHub</a></td>
-      <td>Using some secrets hacks, you can create your own custom Signature for professional emails using vanilla HTML language</td>
+      <td>Using some secrets hacks, you can create your own custom Signature footer for professional emails using vanilla HTML language and add them to hidden files to let them render perfectly in your App</td>
   </tr>
-    
   <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
@@ -239,23 +227,16 @@ Pop me a message and let's talk...!
     </td>
   </tr>
   <div>
+
   
 
-<!---
-- 🔭 
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-🔭 I regularly use... 
---->
+
 
 
 <br></br>
 
-
+---
+---
 
 
 
@@ -265,8 +246,9 @@ Pop me a message and let's talk...!
  <a href="https://trello.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/trello.png" alt="trello" title="trello" width="40" height="40"/><a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jira.png" alt="Jira" title="Jira" width="40" height="40"/><a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/git.png" alt="Git" title="Git" width="40" height="40"/><a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/><a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/nodejs.png" alt="nodejs" title="nodejs" width="40" height="40"/><a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/postman.png" alt="postman" title="postman" width="40" height="40"/><a href="https://www.heroku.com/" target="_blank"> <a href="https://www.netlify.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/netlify.png" alt="netlify" title="netlify" width="40" height="40"/><a href="https://jestjs.io/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/jest.png" alt="jest" title="jest" width="40" height="40"/><a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/lintzuyun/lintzuyun/blob/main/images/aws.png" alt="AWS" title="AWS" width="40" height="40"/>
  </div> 
 
----
 
+
+---
 ---
 
   
