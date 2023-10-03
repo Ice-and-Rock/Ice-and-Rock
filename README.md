@@ -5,9 +5,13 @@
   <img src="https://user-images.githubusercontent.com/124932222/256524110-219164ae-89b2-4539-bc75-a523978622b1.png" alt="Nick header">
 </p>
 
+ <br></br>
+ 
 <h3 align="center" >
-🚀 Looking for my first job in Tech ✅ 
+🚀 Looking for my first job in Tech 🚀
  </h3>
+
+ <br></br>
 
 <p align="center">
 Hey, I'm Nick
