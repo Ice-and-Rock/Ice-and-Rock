@@ -198,9 +198,48 @@ Pop me a message and let's talk...!
   </tbody>
 </table>
 
+<br>
 
+</br>
 
+---
 
+</br>
+
+<div align="center">
+ 
+# 📝 Tech Articles
+ 
+</div>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Article Name</th>
+      <th></th>
+      <th></th>
+      <th>Tech Description</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+  <tr>
+      <td>Apple Mail App</td>
+      <td><a href="https://github.com/Ice-and-Rock/AppleMail.Signature">GitHub</a></td>
+      <td>Using some secrets hacks, you can create your own custom Signature for professional emails using vanilla HTML language</td>
+  </tr>
+    
+  <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+          <sub>Commissioned for: Professionals</sub> <br>
+          <sub>Build as a study aid for students</sub>
+      </p>
+    </td>
+  </tr>
+  <div>
+  
 
 <!---
 - 🔭 
