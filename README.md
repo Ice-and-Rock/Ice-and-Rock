@@ -196,37 +196,39 @@ Pop me a message and let's talk...!
       <td>TypeScript, Javascript, CSS </td>
     </tr>
   </tbody>
+</table>
+
 
 <br></br>
 
-</table>
-<div align="center">
-  
-# 📝 Tech Articles
 
+# 📝 Tech Articles
 <table>
-  <thead>
+<!--   <thead>
     <tr>
       <th>Article Name</th>
       <th></th>
       <th>Tech Description</th>
     </tr>
-  </thead>
+  </thead> -->
   <tbody>
   <tr>
       <td>Apple Mail Signature</td>
       <td><a href="https://github.com/Ice-and-Rock/AppleMail.Signature">GitHub</a></td>
-      <td>Using some secrets hacks, you can create your own custom Signature footer for professional emails using vanilla HTML language and add them to hidden files to let them render perfectly in your App</td>
+      <td>After years of frustration I discovered, using some secrets hacks, you can create your own custom Signature footer for professional emails using vanilla HTML language and add them to hidden files to let them render perfectly in your Mail App</td>
   </tr>
   <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
           <sub>Commissioned for: Professionals</sub> <br>
-          <sub>Build as a study aid for students</sub>
+          <sub>Open source</sub>
       </p>
     </td>
   </tr>
-  <div>
+  </tbody>
+</table>
+
+
 
   
 
