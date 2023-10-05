@@ -32,7 +32,7 @@ Pop me a message and let's talk...!
 
 <p align="center">
   <a href="mailto:nicholas%40valente-engineering.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/nicholas-valente-electrics/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -219,7 +219,7 @@ Pop me a message and let's talk...!
   <tr>
       <td>Apple Mail Signature</td>
       <td><a href="https://github.com/Ice-and-Rock/AppleMail.Signature">GitHub</a></td>
-      <td>After years of frustration I discovered, using some secrets hacks, you can create your own custom Signature footer for professional emails using vanilla HTML language and add them to hidden files to let them render perfectly in your Mail App</td>
+      <td>After years of frustration I discovered, using some secret hacks, you can create your own custom Signature footer for professional emails using vanilla HTML language and add them to hidden files to let them render perfectly in your Mail App</td>
   </tr>
   <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
