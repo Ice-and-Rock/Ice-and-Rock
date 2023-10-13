@@ -8,7 +8,7 @@
  <br></br>
  
 <h3 align="center" >
-🚀 Looking for my first job in Tech 🚀
+🚀 Looking for a new role in Tech 🚀
  </h3>
 
  <br></br>
