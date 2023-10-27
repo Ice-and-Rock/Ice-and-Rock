@@ -40,7 +40,7 @@ Pop me a message and let's talk...!
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1T8xOFPp7gxOp2AxKqcWUhytLhIITvbqF/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1aOTQrUY0BU6bS4Z1GqBj0KRoQ4Wma0fm/view?usp=sharing">
     <img src="https://img.shields.io/badge/%20My%20Resume-grey?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
   </a>
 </p>
