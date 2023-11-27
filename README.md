@@ -79,6 +79,14 @@ Pop me a message and let's talk...!
       <td><a href="">(Under construction)</a></td>
       <td>OpenAI API, ReactJS, NodeJS, BootStrap, SupaBase, Axios/Express</td>
   </tr>
+      <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+          <sub>Built for: Aspiring developers</sub> <br>
+          <sub>Using Artificial Intelligence, this app helps Interview skills for the future generation of Developers.</sub>
+      </p>
+    </td>
+  </tr>
   <tr>
       <td>JavaScript Quiz V2</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
