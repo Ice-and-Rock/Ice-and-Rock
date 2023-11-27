@@ -77,8 +77,7 @@ Pop me a message and let's talk...!
       <td>Dev Dash - Junior Dojo</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
       <td><a href="">(Under construction)</a></td>
- 
-      <td>TypeScript, TailWind, ReactJS, ReactTesting, NodeJS, Netlify</td>
+      <td>OpenAI API, ReactJS, NodeJS, BootStrap, SupaBase, Axios/Express</td>
   </tr>
   <tr>
       <td>JavaScript Quiz V2</td>
