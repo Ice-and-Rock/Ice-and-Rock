@@ -76,7 +76,7 @@ Pop me a message and let's talk...!
   <tr>
       <td>JavaScript Quiz V2</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
-      <td><a href="https://javascript-quiz-v2.netlify.app/">Demo</a></td>
+      <td><a href="https://javascript-quiz-v2.netlify.app/">DEMO</a></td>
       <td>TypeScript, TailWind, ReactJS, ReactTesting, NodeJS, Netlify</td>
   </tr>
     
@@ -92,7 +92,7 @@ Pop me a message and let's talk...!
   <tr>
       <td>WiseWalletKitchen</td>
       <td><a href="https://github.com/Ice-and-Rock/WiseWalletKitchen">GitHub</a></td>
-      <td><a href="https://wisewalletkitchen.netlify.app/">Demo</a></td>
+      <td><a href="https://wisewalletkitchen.netlify.app/">DEMO</a></td>
       <td>ReactJS, ReactTesting, NodeJS, CSS, Netlify, SQL, SupaBase, Jest</td>
   </tr>
   
@@ -107,7 +107,7 @@ Pop me a message and let's talk...!
   <tr>
       <td>Kyrgystan Expedition App</td>
       <td><a href="https://github.com/Ice-and-Rock/Expedition_Weather_Kyrgyzstan">GitHub</a></td>
-      <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">Demo</a></td>
+      <td><a href="https://rebecca-expedition-kyrgystan.netlify.app/">DEMO</a></td>
       <td>Vite, ReactJS, API, CSS</td>
   </tr>
   
@@ -123,7 +123,7 @@ Pop me a message and let's talk...!
   <tr>
       <td>Asteroid Blaster</td>
       <td><a href="https://github.com/Ice-and-Rock/Astroid_Game">GitHub</a></td>
-      <td><a href="https://nicks-asteroid-shooter.netlify.app/">Demo</a></td>
+      <td><a href="https://nicks-asteroid-shooter.netlify.app/">DEMO</a></td>
       <td>JavaScript, HTML</td>
   </tr>
           <tr>
@@ -137,7 +137,7 @@ Pop me a message and let's talk...!
       <tr>
       <td>Offshore Flight Planner</td>
       <td><a href="https://github.com/Ice-and-Rock/Geo_Data_App">GitHub</a></td>
-      <td><a href="https://geo-weather-data.netlify.app/">Demo</a></td>
+      <td><a href="https://geo-weather-data.netlify.app/">DEMO</a></td>
       <td>TypeScript, Windy-Plugin, ReactJS, NodeJS, API, CSS</td>
     </tr>
           <tr>
@@ -152,7 +152,7 @@ Pop me a message and let's talk...!
       <tr>
       <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
-      <td><a href="https://trades-min.netlify.app/">Demo (mobile)</a></td>
+      <td><a href="https://trades-min.netlify.app/">DEMO (mobile only)</a></td>
       <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, TailWind</td>
     </tr>
           <tr>
@@ -166,25 +166,25 @@ Pop me a message and let's talk...!
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
-      <td><a href="https://product-logger.netlify.app/">Demo</a></td>
+      <td><a href="https://product-logger.netlify.app/">DEMO</a></td>
       <td>NodeJS, Insomnia, HTML, CRUD-API, JavaScript</td>
     </tr>
     <tr>
       <td>Outdoor Sport Weather Forecaster</td>
       <td><a href="https://github.com/Ice-and-Rock/Outdoor_Sports_Weather_App.">GitHub</a></td>
-      <td><a href="https://outdoor-sports-weather-forecast.netlify.app/">Demo</a></td>
+      <td><a href="https://outdoor-sports-weather-forecast.netlify.app/">DEMO</a></td>
       <td>ReactJS, NodeJS, API, CSS</td>
     </tr>
      <tr>
       <td>Business Card</td>
       <td><a href="https://github.com/Ice-and-Rock/Business_card.">GitHub</a></td>
-      <td><a href="https://ice-and-rock.github.io/Business_card./">Demo</a></td>
+      <td><a href="https://ice-and-rock.github.io/Business_card./">DEMO</a></td>
       <td>ReactJS, Node, CSS</td>
      </tr>
      <tr>
       <td>JavaScript Quiz</td>
       <td><a href="https://github.com/Ice-and-Rock/Javascript_quiz_project">GitHub</a></td>
-      <td><a href="https://javascript-quiz-fun.netlify.app/">Demo</a></td>
+      <td><a href="https://javascript-quiz-fun.netlify.app/">DEMO</a></td>
       <td>ReactJS, JSON, CSS</td>
     </tr>
    <tr>
