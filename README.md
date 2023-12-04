@@ -73,7 +73,7 @@ Pop me a message and let's talk...!
   </thead>
   
   <tbody>
-     <tr>
+        <tr>
       <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
       <td><a href="https://trades-min.netlify.app/">DEMO (mobile only)</a></td>
@@ -177,7 +177,6 @@ Pop me a message and let's talk...!
     </td>
   </tr>
     </tr>
-     
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
