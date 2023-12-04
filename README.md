@@ -76,14 +76,14 @@ Pop me a message and let's talk...!
      <tr>
       <td>Dev Dash - Junior Dojo</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
-      <td><a href="">(Under construction)</a></td>
+      <td><a href="https://devdash-juniordojo.netlify.app/">DEMO</a></td>
       <td>OpenAI API, ReactJS, NodeJS, BootStrap, SupaBase, Axios/Express</td>
   </tr>
       <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
           <sub>Built for: Aspiring developers</sub> <br>
-          <sub>Using Artificial Intelligence, this app helps Interview skills for the future generation of Developers.</sub>
+          <sub>Using OpenAI's API, this app helps Interview skills for the future generation of Developers.</sub>
       </p>
     </td>
   </tr>
