@@ -74,6 +74,20 @@ Pop me a message and let's talk...!
   
   <tbody>
      <tr>
+      <td>TradesMin (In Progress...)</td>
+      <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
+      <td><a href="https://trades-min.netlify.app/">DEMO (mobile only)</a></td>
+      <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, TailWind</td>
+    </tr>
+          <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: Apline Electrics (Fr)</sub> <br>
+      <sub>Designed with specific on-site job requirements for a small engineering company</sub>
+      </p>
+    </td>
+  </tr>
+     <tr>
       <td>Dev Dash - Junior Dojo</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
       <td><a href="https://devdash-juniordojo.netlify.app/">DEMO</a></td>
@@ -163,20 +177,7 @@ Pop me a message and let's talk...!
     </td>
   </tr>
     </tr>
-      <tr>
-      <td>TradesMin (In Progress...)</td>
-      <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
-      <td><a href="https://trades-min.netlify.app/">DEMO (mobile only)</a></td>
-      <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, TailWind</td>
-    </tr>
-          <tr>
-    <td colspan="4" style="font-size: 6px; font-weight: normal;">
-      <p align="end">
-<sub>Commissioned for: Apline Electrics (Fr)</sub> <br>
-      <sub>Designed with specific on-site job requirements for a small engineering company</sub>
-      </p>
-    </td>
-  </tr>
+     
      <tr>
       <td>Product Log Site (CRUD)</td>
       <td><a href="https://github.com/Ice-and-Rock/Products_List_CRUD.API">GitHub</a></td>
