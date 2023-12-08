@@ -91,7 +91,7 @@ Pop me a message and let's talk...!
       <td>Dev Dash - Junior Dojo</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
       <td><a href="https://devdash-juniordojo.netlify.app/">DEMO</a></td>
-      <td>OpenAI API, ReactJS, NodeJS, BootStrap, SupaBase, Axios/Express</td>
+      <td>ChatGPT - OpenAI API, ReactJS, NodeJS, BootStrap, Axios/Express</td>
   </tr>
       <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
