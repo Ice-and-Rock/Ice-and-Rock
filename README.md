@@ -60,7 +60,6 @@ Pop me a message and let's talk...!
 </div>
 
 
-
 <div align="center">
 <table>
   <thead>
@@ -90,13 +89,13 @@ Pop me a message and let's talk...!
      <tr>
       <td>Dev Dash - Junior Dojo</td>
       <td><a href="https://github.com/Ice-and-Rock/TypeScript_SQL_Quiz">GitHub</a></td>
-      <td><a href="https://devdash-juniordojo.netlify.app/">DEMO</a></td>
+     <td><a href="https://devdash-juniordojo.netlify.app/" class="demo-link">DEMO</a></td>
       <td>ChatGPT - OpenAI API, ReactJS, NodeJS, BootStrap, Axios/Express</td>
   </tr>
       <tr>
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
-          <sub>Built for: Aspiring developers</sub> <br>
+          <sub>PASSWORD: "ready!"</sub> <br>
           <sub>Using OpenAI's API, this app helps Interview skills for the future generation of Developers.</sub>
       </p>
     </td>
@@ -279,6 +278,13 @@ Pop me a message and let's talk...!
 </div>
 <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter'/>
 </div>
+
+
+
+
+
+
+
    
 <!-- 
 <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
