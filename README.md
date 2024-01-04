@@ -82,7 +82,9 @@ Pop me a message and let's talk...!
     <td colspan="4" style="font-size: 6px; font-weight: normal;">
       <p align="end">
 <sub>Commissioned for: Apline Electrics (Fr)</sub> <br>
-      <sub>Designed with specific on-site job requirements for a small engineering company</sub>
+      <sub>Designed with specific on-site job requirements for a small engineering company</sub> <br>
+        <sub>EMAIL: tradesmin.sample@gmail.com</sub> <br>
+        <sub>PASSWORD: TradesMin_Sample1</sub> <br>
       </p>
     </td>
   </tr>
