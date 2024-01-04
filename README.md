@@ -75,7 +75,7 @@ Pop me a message and let's talk...!
         <tr>
       <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
-      <td><a href="https://trades-min.netlify.app/">DEMO (mobile only)</a></td>
+      <td><a href="https://trades-min.netlify.app/">DEMO (mobile only) </a></td>
       <td>TypeScript, SupaBase, RESTful API, ReactJS, NodeJS, TailWind</td>
     </tr>
           <tr>
