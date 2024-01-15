@@ -17,7 +17,7 @@
 Hey, I'm Nick
  </p>
 <p align="center">
- I'm an electrician by trade and recently turned my problem-solving skills into a new software engineering career.
+ I'm an electrical business owner and recently turned my problem-solving skills into a new software engineering career.
 </p>
  <p align="center">
 If you're a fellow developer, an aspiring collaborator, or just someone who also enjoys problem-solving and having fun at work
