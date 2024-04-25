@@ -75,7 +75,7 @@ Pop me a message and let's talk...!
         <tr>
       <td>Hours Logger</td>
       <td><a href="https://github.com/Ice-and-Rock/Hours_Admin">GitHub</a></td>
-      <td><a href="https://hours-logger.netlify.app/login">Live Site</a></td>
+      <td><a href="https://hours-logger.netlify.app/">Live Site</a></td>
       <td>Vite, Jest, SupaBase, RESTful API, ReactJS, NodeJS, BootStrap</td>
     </tr>
           <tr>
