@@ -73,6 +73,22 @@ Pop me a message and let's talk...!
   
   <tbody>
         <tr>
+      <td>Hours Logger</td>
+      <td><a href="https://github.com/Ice-and-Rock/Hours_Admin">GitHub</a></td>
+      <td><a href="https://hours-logger.netlify.app/login">Live Site</a></td>
+      <td>Vite, Jest, SupaBase, RESTful API, ReactJS, NodeJS, BootStrap</td>
+    </tr>
+          <tr>
+    <td colspan="4" style="font-size: 6px; font-weight: normal;">
+      <p align="end">
+<sub>Commissioned for: nvalente-engineering (Uk)</sub> <br>
+      <sub>Built for staff and colleagues to record their working hours</sub> <br>
+        <sub>EMAIL: tradesmin.sample@gmail.com</sub> <br>
+        <sub>PASSWORD: 🔜</sub> <br>
+      </p>
+    </td>
+  </tr>
+        <tr>
       <td>TradesMin (In Progress...)</td>
       <td><a href="https://github.com/Ice-and-Rock/TradesMin">GitHub</a></td>
       <td><a href="https://trades-min.netlify.app/">DEMO (mobile only) </a></td>
